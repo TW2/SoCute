@@ -22,3 +22,6 @@ SoCute thanks to everyone who have make software around DVD and OCR.
 
 Tested in Visual Studio 2017 CE on a Windows 10 Pro US. Not tested outside VS, please be careful if you want to use it.
 Clone or copy the zip and build it with Visual Studio 2017 Community Edition.
+
+Source for Tesseract >> https://github.com/UB-Mannheim/tesseract/wiki
+Source for SUP Tools >> https://sites.google.com/site/dvdsuptools/
