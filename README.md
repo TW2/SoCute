@@ -5,7 +5,7 @@ When you save your old DVD into your Hard Drive Disk (HDD) and there is a track 
 
 The good things are the following :
 
-1. Rip your DVD with DVD Decryter using demux for all of your tracks.
+1. Rip your DVD with DVD Decrypter using demux for all of your tracks.
 2. Use DGIndex to have a D2V for encoding later with AviSynth.
 3. Use VobEdit to extract these tracks when they are in a VOB file.
 4. Use SoCute to read your SUP subtitles file(s) and get an Advanced Sub Station (ASS) file of each SUP.
