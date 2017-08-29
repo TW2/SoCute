@@ -228,7 +228,7 @@ namespace SoCute
             using (FileStream fr = File.OpenRead(temp))
             {
                 Bitmap r = Imaging.ReDraw(new Bitmap(Image.FromFile(temp)));
-                Bitmap b = ResizeImage(r, 1280, 720);
+                Bitmap b = ResizeImage(r, 1280, 1280 * r.Height / r.Width);
                 b.Save(input, ImageFormat.Png);
                 b.Dispose();
             }
